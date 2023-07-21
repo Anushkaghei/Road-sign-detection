@@ -242,8 +242,6 @@ end
 
 sum(A(:) == 1);
 
-%figure('Name',sprintf('BIM472_Image%02d.jpg', 5),'NumberTitle','off');
-
 subplot(2, 3, 1), imshow(I1);
 title('Original');
 
